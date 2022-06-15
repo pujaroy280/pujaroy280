@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Puja Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pujaroy280&theme=solarized-light_icons=true)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pujaroy280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratimaroy" height="30" width="40" /></a>
+</p>
+
