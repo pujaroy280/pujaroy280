@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 --> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pujaroy280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujaroy280" height="30" width="40" /></a>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujaroy280&label=Profile%20views&color=0e75b6&style=flat" alt="pujaroy280" /> </p>
 
