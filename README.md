@@ -4,11 +4,11 @@
 **pujaroy280/pujaroy280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 I’m currently working on building full stack web applications
 -->
 <!-- - 🌱 I’m currently learning React and Node.js -->
-- 🔭 I’m currently working on building full stack web applications
+
 - 👯 I’m looking to collaborate on software engineering, data science & project management internships/projects
-- 📫 How to reach me: pujaroy280@gmail.com 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I interned @ NASA 4x and am a 5x EverUp MicroCredential Scholar @ NY CEO Jobs Council
 <!--
