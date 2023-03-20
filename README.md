@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on software engineering, data science & project management internships/projects
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I interned @ NASA 4x and am a 5x EverUp MicroCredential Scholar @ NY CEO Jobs Council
+- ⚡ Fun fact: I interned @ NASA 5x and am a 5x EverUp MicroCredential Scholar @ NY CEO Jobs Council
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
