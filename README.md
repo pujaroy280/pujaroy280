@@ -3,6 +3,10 @@
 <!--
 **pujaroy280/pujaroy280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-  🌱 I’m currently advancing my expertise in React, Express, Node.js, Prisma, MongoDB, TypeScript, Angular, Django, jQuery, SQL, and R
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I interned @ NASA 5x and am a 5x EverUp MicroCredential Scholar @ NY CEO Jobs Council
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on building full-stack web applications
 -->
@@ -10,9 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building full-stack web applications @ The Knowledge House
 - 👯 I’m looking to collaborate on software engineering, data science & project management internships/projects
--  🌱 I’m currently advancing my expertise in React, Express, Node.js, Prisma, MongoDB, TypeScript, Angular, Django, jQuery, SQL, and R
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I interned @ NASA 5x and am a 5x EverUp MicroCredential Scholar @ NY CEO Jobs Council
+
 -  💬 Ask me about Data Science, SWE, Metadata and PM
 <!--
 - 🤔 I’m looking for help with 
